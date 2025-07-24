@@ -20,7 +20,7 @@ class hexagon extends shapes{
         return 6;
     }
 };
-class angles{
+class PR_5{
     public static void main(String args[]){
         triangle obj1=new triangle();
         int agt=obj1.Noofangles();
